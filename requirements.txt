@@ -6,3 +6,5 @@ torch
 nltk
 matplotlib
 webdriver-manager
+chromium
+chromium-driver
