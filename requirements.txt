@@ -1,0 +1,8 @@
+streamlit
+selenium
+pandas
+transformers
+torch
+nltk
+matplotlib
+webdriver-manager
