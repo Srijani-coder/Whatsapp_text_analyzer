@@ -5,7 +5,9 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import matplotlib.pyplot as plt
 from nltk.sentiment import SentimentIntensityAnalyzer
 import re
+from selenium import webdriver
 import chromedriver_autoinstaller
+chromedriver_autoinstaller.install()
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
